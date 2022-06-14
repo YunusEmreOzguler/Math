@@ -24,6 +24,7 @@ public class FaktoriyelFor {
 		System.out.println("Value : " + x);
 		}
 		
+		
 		input.close();
 	}
 }
